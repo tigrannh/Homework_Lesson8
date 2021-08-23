@@ -1,0 +1,1 @@
+fun <T> nth(n: Int, list: List<T>): T = list[n]

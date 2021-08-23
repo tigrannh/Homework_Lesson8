@@ -1,0 +1,1 @@
+fun <T> penultimate(list: List<T>) = list[list.size - 2]
